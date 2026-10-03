@@ -19,6 +19,9 @@ export default function Navbar() {
         <Link href="#skills" className="hover:text-white transition-colors">
           Compétences
         </Link>
+        <Link href="">
+            Experiences
+         </Link>
         <Link href="#contact" className="hover:text-white transition-colors">
           Contact
         </Link>
